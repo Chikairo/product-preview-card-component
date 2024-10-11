@@ -19,7 +19,7 @@
 body {
     background-color: var(--cream);
     display: grid;
-    flex-direction: column;
+    flex-direction: grid;
     align-items: center;
     justify-content: center;
     height: calc(100vh - 1px);
